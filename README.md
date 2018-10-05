@@ -1,6 +1,6 @@
 # cicd-pipeline-train-schedule-git
 Changes made on 4th Oct
-
+ changing on 5th Oct before doing merging
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities. Change to see if github hook is working. 
 
 ## Running the app
